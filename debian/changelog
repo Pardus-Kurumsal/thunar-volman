@@ -1,3 +1,10 @@
+thunar-volman (0.8.1-2pardus1) unstable; urgency=medium
+
+  * Add patches
+  * Pardus CI implementation
+
+ -- Hikmet Baş <hikmet.bas@pardus.org.tr>  Mon, 10 Dec 2018 17:29:07 +0300
+
 thunar-volman (0.8.1-2) unstable; urgency=medium
 
   * Upload to unstable.
